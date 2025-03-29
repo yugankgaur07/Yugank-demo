@@ -1,4 +1,4 @@
 # Yugank-demo
 this is my first git repository
 
-Author - Yugank Gaur
+Author - Yugank (W3ITEXPERTS)
